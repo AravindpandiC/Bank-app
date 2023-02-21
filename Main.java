@@ -35,7 +35,6 @@ public class Main {
     //Login page for creating user and login
     private static void login( Map<Integer,Users> usersMap,List<Users> usersList) {
         int userLogin = userLogin();
-        int userId = 0;
         // System.out.println(userLogin);
 
         //Login
